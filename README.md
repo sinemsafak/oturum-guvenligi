@@ -1,15 +1,15 @@
 
-# 🔐 Oturum Güvenliği
+# Oturum Güvenliği
 
 React ve TypeScript kullanılarak geliştirilmiş, tarayıcı tabanlı oturum yönetimi ve web güvenliği eğitim projesidir.
 
 Bu projede kullanıcıların oturum açma ve kapatma işlemleri, `localStorage` kullanımı, tarayıcı geliştirici araçları ve güvenli oturum çerezleri arasındaki farklar incelenmektedir.
 
-## 📌 Projenin Amacı
+## Projenin Amacı
 
 Projenin temel amacı, web uygulamalarında oturum yönetiminin nasıl çalıştığını uygulamalı olarak öğrenmek ve farklı oturum saklama yöntemlerinin güvenlik açısından değerlendirmesini yapmaktır.
 
-## 🚀 Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 
 - React
 - TypeScript
@@ -21,7 +21,7 @@ Projenin temel amacı, web uygulamalarında oturum yönetiminin nasıl çalışt
 - jsdom
 - Git ve GitHub
 
-## ✨ Proje Özellikleri
+## Proje Özellikleri
 
 - React ile oturum açma arayüzü.
 - Oturum kapatma işlemi.
@@ -34,7 +34,7 @@ Projenin temel amacı, web uygulamalarında oturum yönetiminin nasıl çalışt
 - localStorage ve HttpOnly çerezlerinin güvenlik karşılaştırması.
 - CSRF koruması ve sunucu yapılandırması hakkında teknik açıklamalar.
 
-## 📂 Proje Dosya Yapısı
+##  Proje Dosya Yapısı
 
 ```text
 oturum-guvenligi/
@@ -61,7 +61,7 @@ oturum-guvenligi/
 └── README.md
 ```
 
-## ⚙️ Kurulum
+##  Kurulum
 
 ### 1. Gerekli yazılımlar
 
@@ -114,7 +114,7 @@ Terminalde gösterilen yerel adresi tarayıcıda aç.
 http://localhost:5173/
 ```
 
-## 🔑 Oturum Yönetimi
+##  Oturum Yönetimi
 
 Uygulamada iki temel işlem bulunmaktadır.
 
@@ -134,7 +134,7 @@ Uygulamada iki temel işlem bulunmaktadır.
 
 **Not:** Bu uygulama gerçek bir sunucuya bağlanmaz ve gerçek kimlik doğrulaması yapmaz. E-posta ve parola alanları yalnızca eğitim amaçlıdır.
 
-## 🧪 Otomatik Testler
+##  Otomatik Testler
 
 Oturum depolama işlemlerini test etmek için Vitest ve jsdom kullanılmıştır.
 
@@ -151,7 +151,7 @@ Test edilen işlemler:
 3. Belirteç kaydedildiğinde oturumun açık olması.
 4. Oturum kapatıldığında belirtecin silinmesi.
 
-## 🔍 Tarayıcı Depolamasını İnceleme
+##  Tarayıcı Depolamasını İnceleme
 
 Belirtecin tarayıcıda saklandığını doğrulamak için:
 
@@ -165,7 +165,7 @@ Belirtecin tarayıcıda saklandığını doğrulamak için:
 
 Belirtecin içeriği console.log() kullanılarak yazdırılmaz.
 
-## 🛡️ Güvenlik Karşılaştırması
+## Güvenlik Karşılaştırması
 
 Projede iki farklı oturum saklama yaklaşımı incelenmektedir.
 
@@ -207,7 +207,7 @@ Detaylı açıklama:
 
 `notes/session-security.md`
 
-## 🏗️ Kod Kontrolleri
+##  Kod Kontrolleri
 
 ESLint kontrolünü çalıştır:
 
@@ -227,7 +227,7 @@ Otomatik testleri çalıştır:
 npm run test
 ```
 
-## 📤 GitHub'a Gönderme
+##  GitHub'a Gönderme
 
 Değişiklikleri kaydetmek için:
 
@@ -237,7 +237,7 @@ git commit -m "Update project documentation"
 git push origin main
 ```
 
-## ⚠️ Güvenlik Uyarısı
+##  Güvenlik Uyarısı
 
 Bu proje yalnızca eğitim ve geliştirme amacıyla hazırlanmıştır.
 
@@ -251,7 +251,7 @@ Kullanılan örnek belirteç gerçek bir erişim belirteci değildir.
 - CSRF ve XSS saldırılarına karşı koruma sağlanmalıdır.
 - Oturum süresi, yenileme ve iptal işlemleri yönetilmelidir.
 
-## 📄 Lisans
+##  Lisans
 
 Bu proje eğitim amaçlı geliştirilmiştir.
 
