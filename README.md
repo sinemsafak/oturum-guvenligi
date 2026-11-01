@@ -6,9 +6,9 @@ React ve TypeScript kullanılarak geliştirilmiş, tarayıcı tabanlı oturum y�
 Bu projede kullanıcıların oturum açma ve kapatma işlemleri, `localStorage` kullanımı, tarayıcı geliştirici araçları ve güvenli oturum çerezleri arasındaki farklar incelenmektedir.
 
 ## Görseller 
+<img width="386" height="404" alt="Ekran görüntüsü 2026-11-01 120759" src="https://github.com/user-attachments/assets/ca2c9de9-b9bf-49ee-9991-88b978aebfab" />
 <img width="381" height="401" alt="Ekran görüntüsü 2026-11-01 120751" src="https://github.com/user-attachments/assets/a77143d0-1215-452e-af1c-9159dc6d87db" />
 
-<img width="386" height="404" alt="Ekran görüntüsü 2026-11-01 120759" src="https://github.com/user-attachments/assets/ca2c9de9-b9bf-49ee-9991-88b978aebfab" />
 <img width="959" height="413" alt="Ekran görüntüsü 2026-11-01 121643" src="https://github.com/user-attachments/assets/9c897530-419c-4902-a1cb-a3f3b3178d08" />
 
 <img width="957" height="418" alt="Ekran görüntüsü 2026-11-01 121652" src="https://github.com/user-attachments/assets/03a90db8-0646-483d-a5a3-4f03bfd49625" />
